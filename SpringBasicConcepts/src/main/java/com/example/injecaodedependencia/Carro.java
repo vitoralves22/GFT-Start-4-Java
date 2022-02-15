@@ -1,4 +1,4 @@
-package com.example.di;
+package com.example.injecaodedependencia;
 
 public class Carro implements Veiculo {
 	

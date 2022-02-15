@@ -1,4 +1,4 @@
-package com.example.di;
+package com.example.injecaodedependencia;
 
 public class Moto implements Veiculo {
 	@Override
