@@ -17,8 +17,12 @@ public class App {
 		
 		Autor autor = factory.getBean(Autor.class);
 		autor.setNome("Paulo Coelho");
-		
 		livro.exibir();
+		
+		
+		
+		
+		
 		
 		((AbstractApplicationContext) factory).close();
 	}
